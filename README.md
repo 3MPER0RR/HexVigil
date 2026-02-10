@@ -1,4 +1,4 @@
-VulnHound is a Rust-based static analysis tool designed to detect common vulnerabilities in:
+HexVigil is a Rust-based static analysis tool designed to detect common vulnerabilities in:
 
 C source code
 
@@ -19,7 +19,7 @@ what corrective actions can be applied
 
 ## Features
 
-The first version of VulnHound includes:
+The first version of HexVigil includes:
 
 🔍 C Source Code Analysis
 
@@ -73,7 +73,7 @@ remediation suggestions
 
 ## Recursive Directory Scanning
 
-VulnHound can analyze:
+HexVigil can analyze:
 
 a single file
 
@@ -92,8 +92,8 @@ macOS / Linux / Windows
 
 Clone the repository:
 
-git clone https:// github.com/<your-username>/vulnhound.git
-cd vulnhound
+git clone https:// github.com/<your-username>/HexVigil.git
+cd HexVigil
 
 
 ## Build:
@@ -110,4 +110,4 @@ cargo run -- /path/to/folder
 ## Verbose mode
 cargo run -- path/to/file --verbose
 
-![Vulnhound](vulnhound.png)
+![HexVigil](HexVigil.png)
