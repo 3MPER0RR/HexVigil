@@ -92,7 +92,8 @@ macOS / Linux / Windows
 
 Clone the repository:
 
-git clone https:// github.com/<your-username>/HexVigil.git
+git clone https:// github.com/<your-username>/HexVigil
+
 cd HexVigil
 
 
